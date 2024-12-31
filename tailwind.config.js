@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        "vollkorn": ['Vollkorn', 'serif']
+        "oswald": ['Oswald', 'sans-serif'],
+        "inter": ['Inter', 'sans-serif']
       }
     },
   },
