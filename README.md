@@ -1,3 +1,6 @@
+# Personal Notes
+This project is written by me using Angular and Tailwind CSS. That said, this project is inspired largely by Brittany Chiang's website (found here: `brittanychiang.com`).
+
 # PortfolioWebsite
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
